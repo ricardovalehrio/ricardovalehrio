@@ -1,11 +1,7 @@
 ## Bem-vindo(a) ao perfil ricardovalehrio 😎
 
-<div>
-   <a href="https://github.com/ricardovalehrio">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=ricardovalehrio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1" alt="Status do GitHub" />
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardovalehrio&layout=compact&langs_count=6&theme=tokyonight&v=1" alt="Linguagens mais usadas" />
-   </a>
-</div>
+[![Status do GitHub](https://github-readme-stats.vercel.app/api?username=ricardovalehrio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1)](https://github.com/ricardovalehrio)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardovalehrio&layout=compact&langs_count=6&theme=tokyonight&v=1)](https://github.com/ricardovalehrio)
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
