@@ -15,7 +15,7 @@
 
 <br>
 
-### Pra conteúdo sobre programação me segue nas redes abaixo!
+### Estudante de Ciências da Computação!
  
 <div align="left">
   <a href="mailto:ricardovaleriosilvaoliveira@gmail.com?subject=Email+do+GitHub&body=Ol%C3%A1,+podemos+conversar+sobre+propostas?+Como+posso+entrar+em+contato+com+voc%C3%AA?"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
